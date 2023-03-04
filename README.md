@@ -43,7 +43,7 @@ npm run dev
 
 ![App Screenshot](https://github.com/EbenEzerManurung/warungminum-vue-3-js/blob/main/screenshot/basket.PNG?raw=true)
 
-## Data laporan
+## Sukses Pesanan
 
 ![App Screenshot](https://github.com/EbenEzerManurung/warungminum-vue-3-js/blob/main/screenshot/sucess_order.PNG?raw=true)
 
