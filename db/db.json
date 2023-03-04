@@ -1,0 +1,203 @@
+{
+  "minuman_terbaik": [
+    {
+      "id": 1,
+      "kode": "No1",
+      "nama": "Kopi Gayo",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "gayo.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "No2",
+      "nama": "Capucino",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "capucino.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "No3",
+      "nama": "Coffee Americano",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "americano.jpg"
+    }
+  ],
+  "minuman": [
+    {
+      "id": 1,
+      "kode": "No1",
+      "nama": "Kopi Gayo",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "gayo.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "No2",
+      "nama": "Capucino",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "capucino.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "No3",
+      "nama": "Coffee Americano",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "americano.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "No4",
+      "nama": "Latte",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "latte.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "No5",
+      "nama": "Coffee Roast",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "roast.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "No7",
+      "nama": " Coffee Gayo",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "gayo.jpg"
+    },
+    {
+      "id": 7,
+      "kode": "No7",
+      "nama": "Macha",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "macha.jpg"
+    },
+    {
+      "id": 8,
+      "kode": "No8",
+      "nama": "Mocha",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "mocha.jpg"
+    }
+  ],
+  "keranjangs": [
+    {
+      "jumlah_pemesanan": 1,
+      "keterangan": "Hangat",
+      "minuman": {
+        "id": 7,
+        "kode": "No7",
+        "nama": "Macha",
+        "harga": 5000,
+        "is_ready": true,
+        "gambar": "macha.jpg"
+      },
+      "id": 3
+    }
+  ],
+  "pesanans": [
+    {
+      "nama": "eben",
+      "noMeja": "nomor1",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": 1,
+          "keterangan": "manis",
+          "minuman": {
+            "id": 3,
+            "kode": "No3",
+            "nama": "Coffee Americano",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "americano.jpg"
+          },
+          "id": 1
+        },
+        {
+          "jumlah_pemesanan": 1,
+          "keterangan": "manis",
+          "minuman": {
+            "id": 3,
+            "kode": "No3",
+            "nama": "Coffee Americano",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "americano.jpg"
+          },
+          "id": 2
+        },
+        {
+          "jumlah_pemesanan": 1,
+          "keterangan": "manis, terimakasih",
+          "minuman": {
+            "id": 3,
+            "kode": "No3",
+            "nama": "Coffee Americano",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "americano.jpg"
+          },
+          "id": 3
+        }
+      ],
+      "id": 1
+    },
+    {
+      "nama": "Rezeky Manurung",
+      "noMeja": "Nomor01",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": 1,
+          "keterangan": "hangat",
+          "minuman": {
+            "id": 2,
+            "kode": "No2",
+            "nama": "Capucino",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "capucino.jpg"
+          },
+          "id": 1
+        },
+        {
+          "jumlah_pemesanan": 1,
+          "keterangan": "Hangat",
+          "minuman": {
+            "id": 1,
+            "kode": "No1",
+            "nama": "Kopi Gayo",
+            "harga": 15000,
+            "is_ready": true,
+            "gambar": "gayo.jpg"
+          },
+          "id": 2
+        },
+        {
+          "jumlah_pemesanan": 1,
+          "keterangan": "Hangat",
+          "minuman": {
+            "id": 7,
+            "kode": "No7",
+            "nama": "Macha",
+            "harga": 5000,
+            "is_ready": true,
+            "gambar": "macha.jpg"
+          },
+          "id": 3
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
